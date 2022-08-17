@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Primer Ejercicio del BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "primerscript": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenock20/JS-Ejerc-1.git"
+  },
+  "author": "Federico Saboredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xenock20/JS-Ejerc-1/issues"
+  },
+  "homepage": "https://github.com/Xenock20/JS-Ejerc-1#readme"
+}
